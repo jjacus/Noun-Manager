@@ -1,0 +1,8 @@
+C:\Users\John\Desktop\SoftwareGuild\C#\Milestone 2\CD Manager\CDManager.Models\bin\Debug\netcoreapp3.1\CDManager.Models.deps.json
+C:\Users\John\Desktop\SoftwareGuild\C#\Milestone 2\CD Manager\CDManager.Models\bin\Debug\netcoreapp3.1\CDManager.Models.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Milestone 2\CD Manager\CDManager.Models\bin\Debug\netcoreapp3.1\CDManager.Models.pdb
+C:\Users\John\Desktop\SoftwareGuild\C#\Milestone 2\CD Manager\CDManager.Models\obj\Debug\netcoreapp3.1\CDManager.Models.csprojAssemblyReference.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Milestone 2\CD Manager\CDManager.Models\obj\Debug\netcoreapp3.1\CDManager.Models.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Milestone 2\CD Manager\CDManager.Models\obj\Debug\netcoreapp3.1\CDManager.Models.AssemblyInfo.cs
+C:\Users\John\Desktop\SoftwareGuild\C#\Milestone 2\CD Manager\CDManager.Models\obj\Debug\netcoreapp3.1\CDManager.Models.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Milestone 2\CD Manager\CDManager.Models\obj\Debug\netcoreapp3.1\CDManager.Models.pdb

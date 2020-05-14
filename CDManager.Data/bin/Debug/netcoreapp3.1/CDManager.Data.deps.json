@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CDManager.Data/1.0.0": {
+        "dependencies": {
+          "CDManager.Models": "1.0.0",
+          "CDManager.View": "1.0.0"
+        },
+        "runtime": {
+          "CDManager.Data.dll": {}
+        }
+      },
+      "CDManager.Models/1.0.0": {
+        "runtime": {
+          "CDManager.Models.dll": {}
+        }
+      },
+      "CDManager.View/1.0.0": {
+        "dependencies": {
+          "CDManager.Models": "1.0.0"
+        },
+        "runtime": {
+          "CDManager.View.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CDManager.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CDManager.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CDManager.View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
